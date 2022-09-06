@@ -3,5 +3,5 @@
 >Status: Em andamento
 
 ```
-ESTUDANDO DEVOPS
+node app.js
 ```
